@@ -5,12 +5,14 @@ updated: 2016-04-028 10:43
 
 As it currently stands, Batman Begins is one of my favorite films of all time. Every time I watch it, I find myself understanding and connecting with the film in deeper ways.
 
-One of my favorite scenes in the movie is when Bruce Wayne climbs a mountain to train with Henri Ducard and the League of Shadows.
+One of my favorite scenes in the film is when Bruce Wayne climbs a mountain to train with Henri Ducard and the League of Shadows.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C33pdX1meX4" frameborder="0" allowfullscreen></iframe>
 
 > Henri Ducard: Are you ready to begin? 
+>
 > Bruce Wayne: I-I can barely stand... 
+>
 > Henri Ducard: [kicks him] Death does not wait for you to be ready! Death is not considerate, or fair! And make no mistake: here, you face Death. 
 
 This scene speaks strongly about the nature of things.

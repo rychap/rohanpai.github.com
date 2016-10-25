@@ -1,55 +1,54 @@
-# Site Info
-title:              "Rohan Pai"
-description:        "This is a blog."
-google_verify:       # Put your Google Verification here
-google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+# Basic
+name:               "Rohan Pai"
+description:        "Rohan Pai"
 
-# Author Info
-author_name:        "Rohan Pai"
-author_email:       
-author_gravatar:    # Gravatar md5 hash
-twitter_username:   
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+url:                "//rohanpai.com"
+author:             "Rohanpai"
+twitter:
+  username:         "rohanpai25"
+#facebook:
+#  app_id:           1234
+#    publisher:      1234
 
-# Site Settings
-baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
-permalink:          /notes/:title # Post permalink
-timezone:           America/Los_Angeles	 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# URL
+#baseurl:            "https://rohanpai.github.io/website"
+baseurl: ""
+#baseurl:            "http://qasaryounis.com" #For Root Domain
+permalink:          /essays/:title/
 
-# Site Build
-highlighter:        pygments
-#markdown:           redcarpet
-#redcarpet:
-#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
+# Markdown
 markdown:           kramdown
-kramdown:
-    input:          GFM
+
+# Navigation
+nav:
+  - name:           "Writings"
+    href:           "writing"
+  - name:           "Bookshelf"
+    href:           "readings"
+  - name:           "About Me"
+    href:           "about"
+
+
+
+# Sass
 sass:
-    style:          :compressed
+  style:            :compressed
 
-# Other Params
-include:            [ "robots.txt" ]
-exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
-gems:
-  - jekyll-sitemap
-
-compress_html:
-    clippings:      all
-    ingore:
-        envs:       [ "test" ]
-
+# Scopes
 defaults:
   -
     scope:
       path:         ""
-    values:
-      layout:       "null"
-  -
-    scope:
       type:         "pages"
     values:
       layout:       "page"
   -
     scope:
+      path:         ""
       type:         "posts"
     values:
       layout:       "post"
+
+gems:
+  - jekyll-seo-tag

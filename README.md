@@ -1,9 +1,15 @@
-# The Plain v1
+## Get Started
 
-A minimalist Jekyll theme, made with passion for simplicity by [Heiswayi Nrird](http://heiswayi.github.io). More details about it [**here**](http://heiswayi.github.io/the-plain.html); **theme description**, **screenshot**, **install instructions** and **demo link**.
+1. Fork this repository
+2. Clone the repository to your computer.<br />`git clone https://github.com/YOURUSERNAME/Kiko`  
+3. Run it.<br />`jekyll serve`
+4. Go to http://127.0.0.1:4000.
 
-## Credits
+## Make it yours
 
-This theme is based on Leonard Lamprecht's [Jekyll theme][1] and released under [MIT license](LICENSE).
+1. Change name and add/remove nav at `_config.yml`.
+2. Change `about.md`.
 
-[1]: https://github.com/leo/leo.github.io
+## License
+
+This theme is released under MIT License.

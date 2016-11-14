@@ -2,6 +2,8 @@
 title: About
 permalink: /about/
 ---
+Coming Soon
+<!---
 <img src="https://pbs.twimg.com/profile_images/562031254598467584/EaKhENDi.jpeg" width="250px">
 
 Hello! My name is Rohan Pai and I'm a student at UC Berkeley where I'm studying computer science and also learning a lot about anthropology. 
@@ -17,3 +19,5 @@ Here are some things I've done in the past:
 <li>- <a href="https://apple.com">Apple Inc.</a> - Software Engineering Intern (July 2013 - Jan 2015)</li>
 <li>- AngelHack Winner / Accelerator (November 2012 - Jan 2013)</li>
 </ul>
+
+--->

@@ -1,20 +1,20 @@
 # Basic
-name:               "Rohan Pai"
-description:        "Rohan Pai"
+name:               "Ryan Chapman"
+description:        "Ryan Chapman"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//rohanpai.com"
-author:             "Rohanpai"
+url:                "//rychap.com"
+author:             "Ryanchapman"
 twitter:
-  username:         "rohanpai25"
+  username:         "ryanechapman"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
 
 # URL
-#baseurl:            "https://rohanpai.github.io/website"
+#baseurl:            "https://rychap.github.io/ryanchapman"
 baseurl: ""
-#baseurl:            "http://qasaryounis.com" #For Root Domain
+#baseurl:            "http://rychap.com" #For Root Domain
 permalink:          /essays/:title/
 
 # Markdown
@@ -28,8 +28,8 @@ nav:
     href:           "readings"
   - name:           "About Me"
     href:           "about"
-
-
+  - name:           "Resume"
+    href:           "resume"
 
 # Sass
 sass:

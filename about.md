@@ -14,6 +14,3 @@ I am excited about novel applications of Artifical Intelligence and Machine Lear
 I am Managing Partner of Dorm Room Fund in the Bay Area, where I invest in early stage startups run by students.
 
 I love to ski, surf, travel, hike, scuba dive, sky dive, swim, read, and golf.
-
-<a href="{{ site.baseurl }}/assets/resume.pdf"> Download My Resume</a>
-
